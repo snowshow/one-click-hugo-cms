@@ -59,7 +59,7 @@ main:
     image: /img/products/products-grid2.jpg
   image3:
     alt: Coffee beans
-    image: /img/products/products-grid1.jpg
+    image: /img/Chrome_icon.png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
@@ -91,12 +91,12 @@ pricing:
         - Up to 4 different varieties of beans
       plan: Big
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - {}
+    - description: шшсшс
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - шсшсшсшсшсшс
+      plan: едедедед
+      price: '23'
+    - {}
 ---
 
